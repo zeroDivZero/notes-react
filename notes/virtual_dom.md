@@ -1,6 +1,8 @@
 # VIRTUAL DOM (VDOM)
 
-Ideal representation of UI, kept in memory and synced with real DOM by lib such as **ReactDOM**. This process is called *reconciliation*.
+React modifies VDOM rather than DOM directly (unlike jQuery), which is expensive.
+
+Ideal representation of UI, kept in memory and synced with real DOM by lib such as **ReactDOM**. This process is called _reconciliation_.
 
 Enables declarative API: inform React of UI state, and it makes DOM match it. Abstracts out attribute manipulation, event handling, and manual DOM updating.
 
