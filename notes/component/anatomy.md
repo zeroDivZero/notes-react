@@ -9,4 +9,4 @@ const Message = (props) => {
 }
 ```
 
-![Component Anatomy](../assets/react-component-anatomy.png)
+![Component Anatomy](../../assets/react-component-anatomy.png)
