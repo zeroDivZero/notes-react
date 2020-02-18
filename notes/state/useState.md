@@ -13,3 +13,5 @@ const Counter = () => {
   )
 }
 ```
+
+Cannot be used in class-based component.
