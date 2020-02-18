@@ -10,3 +10,5 @@ const Message = (props) => {
 ```
 
 ![Component Anatomy](../../assets/react-component-anatomy.png)
+
+![Component with Internal Function](../../assets/react-component-internal-func.png)
