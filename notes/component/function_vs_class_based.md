@@ -1,6 +1,6 @@
-# FUNCTIONAL VS CLASS-BASED
+# FUNCTION VS CLASS-BASED
 
-## Functional
+## Function
 
 ```javascript
 import React, { useState } from 'react'
