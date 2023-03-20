@@ -1,13 +1,35 @@
 # GETTING STARTED
 
-With `npm`:
+## Create App
+
+`npx`:
 
 ```sh
 npx create-react-app my-app
 ```
 
-With `yarn`:
+`npm`:
+
+```sh
+npm init react-app my-app
+```
+
+`yarn`:
 
 ```sh
 yarn create react-app my-app
+```
+
+## Run App
+
+In project folder, with `npm`:
+
+```sh
+npm start
+```
+
+`yarn`:
+
+```sh
+yarn start
 ```
