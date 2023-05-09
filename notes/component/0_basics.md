@@ -1,4 +1,8 @@
-```javascript
+# BASICS
+
+Functional. Capitalized to differentiate from HTML tags.
+
+```js
 import React from 'react'
 
 const Message = (props) => {
