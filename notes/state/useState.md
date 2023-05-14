@@ -1,6 +1,6 @@
 # `useState`
 
-For functional component, use **hook** `useState`.
+For functional component (not class-based), use **hook** `useState`.
 
 ```javascript
 import React, { useState } from 'react'
@@ -16,4 +16,4 @@ const Counter = () => {
 }
 ```
 
-Cannot be used in class-based component.
+State initiated and stored within component. Can pass it to children components as prop, but update logic should be kept locally.
